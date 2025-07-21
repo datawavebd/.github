@@ -11,10 +11,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datawavebd&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
-## 🧰 Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datawavebd&langs_count=8&hide_title=false&hide_border=true&layout=compact&card_width=350&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=datawavebd&show_icons=true&hide_border=true&include_all_commits=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-
 
 ## 🌐 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:info@datawavebd.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
